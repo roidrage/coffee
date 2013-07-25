@@ -4,7 +4,7 @@
 
 - A sealed jar
 - Roughly 11 grams of coffee per 100 ml water (.9 oz of coffee per 1 cup water) 
-  (Kenyan and Ethiopian coffees are particular great for this)
+  (Kenyan and Ethiopian coffees are particularly great for this)
 - A fridge
 - A paper filter or kitchen towel
 
