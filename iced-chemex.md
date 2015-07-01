@@ -15,4 +15,4 @@ It's wonderfully light and perfect for a hot sommer day.
 
 * Grind the beans (duh!), a normal filter grind
 * Pile the ice cubes in the Chemex
-* Brew the coffee just like you'd normally do for a Chemex brew
+* Brew the coffee just like you'd normally do for a Chemex brew, with filter and everything, but watch the amount of water
