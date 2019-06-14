@@ -28,7 +28,7 @@
 
 1. Grind the coffee to your liking, but not too fine. You'll regret a fine grind
    when it comes to filtering the brew
-2. Wrap coffee in a chemex filter and fixate with a rubber band (use 2 filters if
+2. Wrap coffee in an unfolded chemex filter (having multiple layers hinders extraction) and fixate with a rubber band (use 2 filters if
    you have a big jar)
 3. Put coffee in jar, pour cold water on top
 4. Seal the jar
